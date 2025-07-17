@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandra Torres.
-- 👀 I’m interested in  I'm interested in software development, bioengineering, and UX/UI design.
+- 👀 I’m interested in software development, bioengineering, and UX/UI design.
 - 🌱 I’m currently learning  JavaScript, mobile-first design, database modeling, and other things.
 - 💞️ I’m looking to collaborate on on web development projects, especially those focused on usability and innovative solutions.
 - 📫 How to reach me my GitHub profile or through LinkedIn (@alexandramstorres).
